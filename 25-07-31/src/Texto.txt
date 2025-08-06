@@ -1,0 +1,53 @@
+1. Peça ao usuário que informe o valor final de uma corrida 
+de aplicativo. Se o valor for maior que R$50, mostre 
+"Corrida longa", se estiver entre R$20 e R$50, "Corrida média", 
+senão, "Corrida curta".
+
+2. Peça ao usuário para informar o horário de chegada 
+(em horas, formato 24h). Se for entre 6 e 12, imprima "Bom dia". 
+Se for entre 12 e 18, imprima "Boa tarde". Se for entre 18 e 24 
+ou 0 e 6, imprima "Boa noite".
+
+3. Peça ao usuário para informar sua faixa etária 
+(criança, adolescente, adulto, idoso). Se "criança", 
+recomende desenhos animados; se "adolescente", recomende 
+séries e jogos; se "adulto", sugira notícias e esportes; 
+se "idoso", indique novelas e programas de entrevista.
+
+4. Para um motorista de aplicativo, peça os valores de 5 corridas 
+e, ao final, mostre o total ganho no turno.
+
+5. Peça ao usuário a quantidade de chamadas a serem registradas 
+(por exemplo, 4). Use um laço para que o usuário informe o nome 
+do solicitante em cada ligação e, ao final, 
+mostre a lista completa.
+
+6. Peça ao usuário para informar as notas (1 a 5) 
+dadas a 5 restaurantes diferentes que visitou recentemente e, 
+ao final, calcule e mostre a média das avaliações.
+
+7. Simule as corridas de um motorista de aplicativo. 
+Enquanto o usuário digitar “Sim” para aceitar uma nova corrida, 
+solicite o valor da corrida e adicione ao total. 
+Finalize e mostre o total quando o usuário responder “Não”.
+
+8. Pergunte continuamente o nome dos hóspedes chegando para 
+um evento, até que o nome digitado seja “FIM”. Depois, mostre 
+quantas pessoas chegaram.
+
+9. Peça ao usuário para adivinhar um número secreto entre 1 e 10. 
+Enquanto não acertar, o programa deve pedir outro palpite, 
+dizendo se o chute foi alto ou baixo. Quando acertar, 
+mostre quantas tentativas foram necessárias.
+
+10. Permita que o motorista registre o valor de cada corrida 
+em uma lista, até decidir parar. Depois, mostre: quantas corridas 
+e o total arrecadado.
+
+11. Crie uma lista para armazenar os nomes dos hóspedes que fazem 
+check-in. O usuário vai inserindo nomes até parar, e depois pode 
+pesquisar se um nome específico fez check-in.
+
+12. Solicite ao usuário que insira os preços de produtos 
+comprados em uma ida ao supermercado (em uma lista), até decidir 
+parar. Ao final, mostre a média de gastos por produto.
